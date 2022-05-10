@@ -70,7 +70,7 @@ function Example() {
             </div>
             <div>
             <label>
-                <span>Last Name:</span>{' '}
+                <span>Last Name:</span>
                 <input
                     name="lastName"
                     value={state.lastName.value}
@@ -81,7 +81,7 @@ function Example() {
             </div>
             <div>
                 <label>
-                    <span>Email:</span>{' '}
+                    <span>Email:</span>
                     <input
                         name="email"
                         value={state.email.value}
